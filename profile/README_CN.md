@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="./README.md">简体中文</a> |
+  <a href="./README_EN.md">English</a> |
+  <a href="./README_JP.md">日本語</a>
+</div>
+
+<div align="center">
   <img src="https://github.com/CyaniAgent.png" width="120" alt="CyaniAgent Logo">
   <h1>CyaniAgent</h1>
   <p><b>✨ 连接美学与底层技术的开放社区 ✨</b></p>
