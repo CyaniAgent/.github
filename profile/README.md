@@ -1,4 +1,10 @@
 <div align="center">
+   <a href="./README.md">English</a> |
+  <a href="./README_CN.md">简体中文</a> |
+  <a href="./README_JP.md">日本語</a>
+</div>
+
+<div align="center">
   <img src="https://github.com/CyaniAgent.png" width="120" alt="CyaniAgent Logo">
   <h1>CyaniAgent</h1>
   <p><b>✨ Connecting Aesthetics with Underlying Technology ✨</b></p>
@@ -23,7 +29,7 @@
 **CyaniAgent** is an open-source team dedicated to pursuing ultimate aesthetics and high-performance technology.
 
 Here is what defines us:
-*   🏛️ **Our Heritage**: CyaniAgent was **originally the technical group within [iMikufans](https://imikufans.cn)**. While we have evolved into an **independent** open team, we maintain a close friendship and collaborative relationship with iMikufans to drive community growth together.
+*   🏛️ **Our Heritage**: CyaniAgent was **originally the technical group within [iMikufans](https://imikufans.com)**. While we have evolved into an **independent** open team, we maintain a close friendship and collaborative relationship with iMikufans to drive community growth together.
 *   🤝 **Global Vision**: We warmly welcome **developers from all over the world**! We are committed to building an **international, open, inclusive, and collaborative space**. Here, code has no borders, and creativity knows no bounds.
 
 ## 🛠️ Core Tech Stack
@@ -48,9 +54,9 @@ We strive to build superior clients and extension tools for these ecosystems.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **📱 [CyaniTalk](https://github.com/CyaniAgent/CyaniTalk)** | **Unified Social Client**<br>Seamlessly connects Misskey and Flarum, providing a modern social experience. | `Flutter` |
+| **📱 [CyaniTalk](https://github.com/CyaniAgent/CyaniTalk)** | **Unified Social Client**<br>Seamlessly connects Misskey and Flarum, providing a modern social experience. | `Flutter` `Rust` |
 | **🖥️ [Celoris-Desktop](https://github.com/CyaniAgent/Celoris-Desktop)** | **Anime-style DE**<br>A high-aesthetic, responsive desktop environment exploring new possibilities for Linux. | `Flutter` `C++` |
-| **⚙️ [Hikari-Kernel](https://github.com/CyaniAgent/Hikari-Kernel)** | **Microkernel**<br>A self-developed microkernel exploring minimalism and scheduling optimization. | `C` `Assembly` |
+| **⚙️ [Hikari-Kernel](https://github.com/CyaniAgent/Hikari-Kernel)** | **Microkernel**<br>A self-developed microkernel exploring minimalism and scheduling optimization. | `Rust` `Assembly` |
 
 ## 📬 Contact & Join Us
 
@@ -61,7 +67,7 @@ If you are interested in our projects or want to build this open space with us, 
 | Platform | Link / ID | Note |
 | :---: | :--- | :--- |
 | <img src="https://img.shields.io/badge/QQ-Group-brightgreen?logo=tencent-qq&logoColor=white" alt="QQ"> | **1026404842** | Developer Group (CN) |
-| <img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&logoColor=white" alt="Misskey"> | [**hub.imikufans.cn**](https://hub.imikufans.cn) | Official Instance |
+| <img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&logoColor=white" alt="Misskey"> | [**hub.imikufans.com**](https://hub.imikufans.com) | Official Instance |
 | <img src="https://img.shields.io/badge/Flarum-Forum-E76F51?logo=flarum&logoColor=white" alt="Flarum"> | [**flarum.imikufans.cn**](https://flarum.imikufans.cn) | Community Forum |
 
 </div>
