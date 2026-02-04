@@ -76,5 +76,5 @@ If you are interested in our projects or want to build this open space with us, 
 
 <div align="center">
   <p>Let's build the future together.</p>
-  <p>© 2026 CyaniAgent Team | Origin from iMikufans</p>
+  <p>© 2026 CyaniAgent | Origin from iMikufans</p>
 </div>
