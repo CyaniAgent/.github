@@ -67,7 +67,7 @@ If you are interested in our projects or want to build this open space with us, 
 | Platform | Link / ID | Note |
 | :---: | :--- | :--- |
 | <img src="https://img.shields.io/badge/QQ-Group-brightgreen?logo=tencent-qq&logoColor=white" alt="QQ"> | **1026404842** | Developer Group (CN) |
-| <img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&logoColor=white" alt="Misskey"> | [**hub.imikufans.com**](https://hub.imikufans.com) | Official Instance |
+| <img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&logoColor=white" alt="Misskey"> | [**hub.imikufans.com**](https://hub.imikufans.com) | Official Misskey Instance |
 | <img src="https://img.shields.io/badge/Flarum-Forum-E76F51?logo=flarum&logoColor=white" alt="Flarum"> | [**flarum.imikufans.cn**](https://flarum.imikufans.cn) | Community Forum |
 
 </div>
