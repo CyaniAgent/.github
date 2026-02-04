@@ -61,7 +61,7 @@
 | 平台 | 入口/链接 | 备注 |
 | :---: | :--- | :--- |
 | <img src="https://img.shields.io/badge/QQ-Group-brightgreen?logo=tencent-qq&logoColor=white" alt="QQ"> | **1026404842** | 开发者交流群 |
-| <img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&logoColor=white" alt="Misskey"> | [**hub.imikufans.com**](https://hub.imikufans.com) | 官方社交实例 |
+| <img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&logoColor=white" alt="Misskey"> | [**hub.imikufans.com**](https://hub.imikufans.com) | 官方 Misskey 社交实例 |
 | <img src="https://img.shields.io/badge/Flarum-Forum-E76F51?logo=flarum&logoColor=white" alt="Flarum"> | [**flarum.imikufans.cn**](https://flarum.imikufans.cn) | 官方论坛社区 |
 
 </div>
