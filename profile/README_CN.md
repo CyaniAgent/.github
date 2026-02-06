@@ -76,5 +76,5 @@
 
 <div align="center">
   <p>Let's build the future together.</p>
-  <p>© 2026 CyaniAgent | Origin from iMikufans</p>
+  <p>© 2026 CyaniAgent</p>
 </div>
