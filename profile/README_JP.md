@@ -55,8 +55,6 @@
 | プロジェクト名 | 概要 | 言語 |
 | :--- | :--- | :--- |
 | **📱 [CyaniTalk](https://github.com/CyaniAgent/CyaniTalk)** | **統合ソーシャルクライアント**<br>MisskeyとFlarumをシームレスに接続し、モダンな体験を提供します。 | `Flutter` `Rust` |
-| **🖥️ [Celoris-Desktop](https://github.com/CyaniAgent/Celoris-Desktop)** | **二次元スタイルDE**<br>高いデザイン性と応答性を兼ね備えた、新しいLinuxデスクトップ環境。 | `Flutter` `C++` |
-| **⚙️ [Hikari-Kernel](https://github.com/CyaniAgent/Hikari-Kernel)** | **自作マイクロカーネル**<br>OSの極限までのシンプルさとスケジューリング最適化を探求しています。 | `Rust` `Assembly` |
 
 ## 📬 コミュニティに参加 (Join Us)
 

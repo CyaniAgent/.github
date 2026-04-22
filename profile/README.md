@@ -55,8 +55,6 @@ We strive to build superior clients and extension tools for these ecosystems.
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **📱 [CyaniTalk](https://github.com/CyaniAgent/CyaniTalk)** | **Unified Social Client**<br>Seamlessly connects Misskey and Flarum, providing a modern social experience. | `Flutter` `Rust` |
-| **🖥️ [Celoris-Desktop](https://github.com/CyaniAgent/Celoris-Desktop)** | **Anime-style DE**<br>A high-aesthetic, responsive desktop environment exploring new possibilities for Linux. | `Flutter` `C++` |
-| **⚙️ [Hikari-Kernel](https://github.com/CyaniAgent/Hikari-Kernel)** | **Microkernel**<br>A self-developed microkernel exploring minimalism and scheduling optimization. | `Rust` `Assembly` |
 
 ## 📬 Contact & Join Us
 
