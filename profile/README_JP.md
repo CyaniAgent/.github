@@ -64,6 +64,7 @@
 
 | プラットフォーム | リンク / ID | 備考 |
 | :---: | :--- | :--- |
+| <img src="https://img.shields.io/badge/Discord-Server-purple?logo=discord&logoColor=white" alt="Discord"> | [Discord リンク](https://discord.gg/RaVxb7RDep) | 公式 Discord サーバー |
 | <img src="https://img.shields.io/badge/QQ-Group-brightgreen?logo=tencent-qq&logoColor=white" alt="QQ"> | **1026404842** | 開発者グループ (中国語) |
 | <img src="https://img.shields.io/badge/Misskey-Instance-aec413?logo=misskey&logoColor=white" alt="Misskey"> | [**hub.imikufans.com**](https://hub.imikufans.com) | 公式 Misskey インスタンス |
 | <img src="https://img.shields.io/badge/Flarum-Forum-E76F51?logo=flarum&logoColor=white" alt="Flarum"> | [**flarum.imikufans.cn**](https://flarum.imikufans.cn) | 公式フォーラム |
